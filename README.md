@@ -1,5 +1,4 @@
 # Classic Events Management Website
-
 ## Overview
 This is a PHP-based event management website that allows users to browse event services, contact the company, and book events. It includes user authentication (login/signup), an admin dashboard, and contact form functionality.
 
